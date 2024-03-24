@@ -1,6 +1,6 @@
 Given a list like
  
- 3 love
+ 3 love \n
  6 computers
  2 dogs
  4 cats
