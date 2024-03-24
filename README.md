@@ -1,8 +1,7 @@
 Given a list like
- 
- 3 love
- 6 computers
- 2 dogs
+3 love
+6 computers
+2 dogs
  4 cats
  1 I
  5 you
