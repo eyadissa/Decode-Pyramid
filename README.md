@@ -7,7 +7,7 @@ Given a list like
 1 I  
 5 you
 
-This function finds the indicies of the endge of a pyramid such that
+This function finds the values of the endge of a pyramid such that
 
 1  
 2 3  
