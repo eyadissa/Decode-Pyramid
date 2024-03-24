@@ -74,4 +74,8 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Given a list like&#10; 3 love&#10; 6 computers&#10; 2 dogs&#10; 4 cats&#10; 1 I&#10; 5 you&#10;&#10;This function finds the indicies of the endge of a pyramid such that&#10;1&#10;2 3&#10;4 5 6&#10;results in [1 3 6]&#10;&#10;then returns the related sequence of words:&#10;I love computers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Given a list like&#10; 3 love&#10; 6 computers&#10; 2 dogs&#10; 4 cats&#10; 1 I&#10; 5 you&#10;&#10;This function finds the indicies of the endge of a pyramid such that&#10;1&#10;2 3&#10;4 5 6&#10;results in [1 3 6]&#10;&#10;then returns the related sequence of words:&#10;I love computers" />
+  </component>
 </project>
